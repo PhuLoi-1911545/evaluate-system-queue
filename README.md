@@ -1,6 +1,6 @@
 # evaluate-system-queue
 
-**Đề tài **
+**Đề tài**
 
 Xây dựng 1 chương trình mô phỏng hàng M/G/1, 
 trong đó thời gian phục vụ của server = d + S (S biến ngẫu nhiên phân bố theo hàm mũ và d tương tự như thời gian bắt buộc phải có khi xử lý 1 customer). 
